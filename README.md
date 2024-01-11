@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-unchartered&show_icons=true&locale=en" alt="amit-unchartered" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-unchartered&" alt="amit-unchartered" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-unchartered&" alt="amit-unchartered" /></p>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Amit-unchartered)](https://git.io/streak-stats)
